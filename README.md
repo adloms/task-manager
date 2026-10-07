@@ -1,10 +1,13 @@
-# Guess the Number
+# Task Manager
 
-«Guess Number» in Python.
+Консольный менеджер задач на Python.
 
-1. Open `tests.py`
-2. Input number from 1 до 50
-3. Guess in 5 attempts.
+## Функции
+- Добавить задачу
+- Показать все задачи
+- Отметить выполненной
+- Удалить задачу
 
+## Технологии
 - Python 3.14
 - Git
